@@ -1,6 +1,6 @@
 # sdu-notes
 
-Typst template package for SDU/IMADA course documents.
+Typst template package for SDU/IMADA course documents by © Simon Holm.
 
 ## Installation
 
