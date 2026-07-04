@@ -21,7 +21,12 @@ ln -s ~/GitHub/sdust ~/.local/share/typst/packages/local/sdust/0.1.0
 **With cover page:**
 ```typst
 #import "@local/sdust:0.1.0": *
-#show: note.with(title: "...", course: "DM000 — Course Name", author: "...", date: "...")
+#show: note.with(
+  title: "...",
+  course: "DM000 — Course Name",
+  author: "...",
+  date: "..."
+)
 ```
 
 ## Templates
